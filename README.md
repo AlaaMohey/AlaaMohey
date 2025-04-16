@@ -37,7 +37,7 @@
 - 📚 Learning **Docker & Redis**  
 - 🤝 Open to **collaborations & freelance opportunities**
 - 📝 Regularly post on **[LinkedIn](www.linkedin.com/in/alaa-mohey-78a986195)**
-- 📫 Reach me at **muhammedelmanzalawi@gmail.com**
+- 📫 Reach me at **alaamohey46@gmail.com**
 - 📄 Check out my **[Resume]([https://flowcv.com/resume/g6cs27mkpc](https://flowcv.com/resume/bqp3qpqkvo))**
 
 ---
@@ -85,12 +85,7 @@
 
 ---
 
-<!-- ## 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Download Instagram profile picture using Python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert an image to a sketch using Python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-BLOG-POST-LIST:END -->
+
 
 ---
 
