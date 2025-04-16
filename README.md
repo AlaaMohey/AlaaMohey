@@ -36,15 +36,15 @@
 - 💡 Passionate about **Django, Angular, Cloud, and Microservices**
 - 📚 Learning **Docker & Redis**  
 - 🤝 Open to **collaborations & freelance opportunities**
-- 📝 Regularly post on **[LinkedIn](https://www.linkedin.com/in/muhammed-elmanzalawi-5b5522196/)**
+- 📝 Regularly post on **[LinkedIn](www.linkedin.com/in/alaa-mohey-78a986195)**
 - 📫 Reach me at **muhammedelmanzalawi@gmail.com**
-- 📄 Check out my **[Resume](https://flowcv.com/resume/g6cs27mkpc)**
+- 📄 Check out my **[Resume]([https://flowcv.com/resume/g6cs27mkpc](https://flowcv.com/resume/bqp3qpqkvo))**
 
 ---
 
 ## 🌐 **Connect with Me**  
 <p align="center">
-  <a href="www.linkedin.com/in/alaa-mohey-78a986195" target="_blank">
+  <a href="/in/alaa-mohewww.linkedin.comy-78a986195" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
   <a href="https://github.com/AlaaMohey" target="_blank">
