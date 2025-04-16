@@ -36,7 +36,7 @@
 - 💡 Passionate about **Django, Angular, Cloud, and Microservices**
 - 📚 Learning **Docker & Redis**  
 - 🤝 Open to **collaborations & freelance opportunities**
-- 📝 Regularly post on **[LinkedIn](www.linkedin.com/in/alaa-mohey-78a986195)**
+- 📝 Regularly post on **[LinkedIn](wwww.linkedin.com/in/alaa-mohey-78a986195)**
 - 📫 Reach me at **alaamohey46@gmail.com**
 - 📄 Check out my **[Resume]([https://flowcv.com/resume/g6cs27mkpc](https://flowcv.com/resume/bqp3qpqkvo))**
 
